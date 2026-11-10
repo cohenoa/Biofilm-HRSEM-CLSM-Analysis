@@ -1,4 +1,4 @@
-# Code to accompany the paper: "Computational Framework for Quantitative Analysis of _Streptococcus mutans_ Biofilms Using HR-SEM and Confocal Microscopy"
+# Code to accompany the paper: "Computational Framework for Quantitative Analysis of _Streptococcus mutans_ Biofilms Using HR-SEM and Confocal Microscopy" (DOI: 10.1038/s41598-026-78924-1)
 
 ---
 
